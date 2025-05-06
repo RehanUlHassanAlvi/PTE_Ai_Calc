@@ -1,0 +1,6 @@
+venv/
+.github/
+test/
+req1.txt
+.git/
+**.ipynb
